@@ -1,0 +1,11 @@
+created a new repository on github
+created new directory on local 
+added some files
+did git init 
+add and commit
+connected the local repo to the remote by the link provided by github
+pushed the files
+
+added new file and add and commit 
+
+pushed again 
